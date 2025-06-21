@@ -1,0 +1,13 @@
+names:
+- no-safety-shoes
+- safety-shoes
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: deteksi-penggunaan-safety-shoes
+  url: https://universe.roboflow.com/deep-learning-rpad9/deteksi-penggunaan-safety-shoes/dataset/8
+  version: 8
+  workspace: deep-learning-rpad9
+test: ../test/images
+train: ../train/images
+val: ../valid/images

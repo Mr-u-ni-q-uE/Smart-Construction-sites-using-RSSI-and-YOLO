@@ -1,0 +1,13 @@
+names:
+- bare hand
+- glove
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: gloves_2
+  url: https://universe.roboflow.com/jay-hn3fj/gloves_2/dataset/4
+  version: 4
+  workspace: jay-hn3fj
+test: ../test/images
+train: ../train/images
+val: ../valid/images
